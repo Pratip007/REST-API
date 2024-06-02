@@ -1,0 +1,1 @@
+"# REST-API"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Pratip007/REST-API.gitgit push -u origin main
